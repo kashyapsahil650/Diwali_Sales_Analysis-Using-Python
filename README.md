@@ -5,14 +5,21 @@ This project focuses on analyzing Diwali sales data to gain insights and perform
 
 # Table of Contents
 Importing Dependencies
+
 Data Description
+
 Data Cleaning
+
 EDA Steps
+
 Conclusion
+
 # Importing Dependencies
+
 we have imported following python Libraries Numpy, Pandas, Matplotlib, Seaborn
 
 # Data Description
+
 The dataset used for this analysis contains Diwali sales data for a specific period. The data is provided in CSV format and includes the following columns:
 
 User_ID : The Id of person
